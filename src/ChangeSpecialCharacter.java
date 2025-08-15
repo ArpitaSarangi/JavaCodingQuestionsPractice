@@ -7,6 +7,7 @@ public class ChangeSpecialCharacter {
 
 	private static String printDifferentSpeicalCharacter(String str) {
 		return str.replace('@', '_');
+		
 
 	}
 }
